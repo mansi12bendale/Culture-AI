@@ -7,7 +7,7 @@ In Week 8, we will finalize all app features, complete extensive testing, and po
 •	• Refine UI based on testing results.
 •	• Generate signed APK for deployment or internal testing.
 •	• Finalize documentation and prepare GitHub README.
-✅ Achievements
+✅ Summary
 •	• All features tested and refined.
 •	• APK ready for testing or Play Store submission.
 •	• Documentation completed and published.

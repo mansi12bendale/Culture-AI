@@ -7,7 +7,7 @@ This week focused on laying the foundation for the project. We established a Git
 •	• Established folder structure for Android code, datasets, and documentation.
 •	• Defined the app’s purpose and target audience.
 •	• Extracted and cleaned monument dataset and images.
-✅ Achievements
+✅ Summary
 •	• Repository is live and accessible.
 •	• Datasets are organized and ready for use.
 •	• Defined app structure and conceptualized navigation flow.
