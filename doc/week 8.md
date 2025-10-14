@@ -1,6 +1,6 @@
 # Week 8: Testing, Deployment & Documentation
 
-**Project Title:** CultureAI – Heritage & Monument Information Web Application
+**Project Title:** CultureAI 
 
 ## Description
 Finalized all features, ran thorough testing, and prepared the app for deployment.

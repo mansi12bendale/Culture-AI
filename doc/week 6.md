@@ -1,6 +1,6 @@
 # Week 6: Multimedia Content & Image Management
 
-**Project Title:** CultureAI – Heritage & Monument Information Web Application
+**Project Title:** CultureAI 
 
 ## Description
 Integrated image uploads and multimedia display for monument pages.

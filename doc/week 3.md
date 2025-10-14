@@ -1,6 +1,6 @@
 # Week 3: Dynamic Data Integration
 
-**Project Title:** CultureAI – Heritage & Monument Information Web Application
+**Project Title:** CultureAI 
 
 ## Description
 Integrated dynamic monument data from MySQL to frontend maps and lists.

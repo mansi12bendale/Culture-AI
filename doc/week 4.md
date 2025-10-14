@@ -1,7 +1,6 @@
 # Week 4: Google Maps API Integration
 
-**Project Title:** CultureAI – Heritage & Monument Information Web Application
-
+**Project Title:** CultureAI
 ## Description
 Mapped monument locations using Google Maps API.
 

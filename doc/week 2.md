@@ -1,6 +1,6 @@
 # Week 2: Backend & UI Design Initialization
 
-**Project Title:** CultureAI – Heritage & Monument Information Web Application
+**Project Title:** CultureAI
 
 ## Description
 Backend setup with Java/JSP; designed main UI screens for monument display.

@@ -1,6 +1,6 @@
 # Week 1: Project Kickoff & Initial Setup
 
-**Project Title:** CultureAI – Heritage & Monument Information Web Application
+**Project Title:** CultureAI
 
 ## Description
 CultureAI is a web platform to promote cultural heritage by providing information on monuments via interactive dashboards and maps.

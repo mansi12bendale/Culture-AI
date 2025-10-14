@@ -1,6 +1,6 @@
 # Week 7: Offline Access & Notifications
 
-**Project Title:** CultureAI – Heritage & Monument Information Web Application
+**Project Title:** CultureAI
 
 ## Description
 Implemented offline access and user notifications for enhanced engagement.

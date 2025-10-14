@@ -1,6 +1,6 @@
 # Week 5: Admin Features & User Interaction
 
-**Project Title:** CultureAI – Heritage & Monument Information Web Application
+**Project Title:** CultureAI 
 
 ## Description
 Developed admin dashboard with secure authentication; improved user experience.
