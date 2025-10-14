@@ -1,17 +1,17 @@
-# Week 4: Google Maps Integration & Geolocation
+# Week 4: Google Maps API Integration
 
-## 🎯 Objective
-Display monument locations on Google Maps using geographical data.
+**Project Title:** CultureAI – Heritage & Monument Information Web Application
 
-## 📘 Summary
-In Week 4, we integrated Google Maps to plot monuments based on their latitude and longitude. After obtaining the necessary API keys, we used the coordinates from the dataset to add markers on the map. Each marker is linked to the monument’s detail page, offering users a seamless navigation experience.
+## Description
+Mapped monument locations using Google Maps API.
 
-## 📌 Key Activities
-- Integrated Google Maps API and obtained API key.
-- Parsed latitude and longitude from the dataset for geolocation.
-- Plotted monument markers on the map.
-- Linked map markers to detailed monument pages.
+## Objectives
+- Obtain and configure API keys
+- Visualize interactive monument markers on maps
 
-## ✅ Outcomes
-- Google Maps functionality is implemented.
-- Monuments are displayed as interactive markers on the map.
+## Activities
+- Plotted monument locations by coordinates
+- Linked markers to detailed views
+
+## Outcome
+Seamless geolocation for improved user experience.

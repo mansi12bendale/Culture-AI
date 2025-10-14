@@ -1,16 +1,17 @@
-# Week 7: Offline Mode & Notifications Setup (Ongoing)
+# Week 7: Offline Access & Notifications
 
-## 🎯 Objective
-Implement offline functionality and push notifications for better user engagement.
+**Project Title:** CultureAI – Heritage & Monument Information Web Application
 
-## 📘 Summary
-In Week 7, we began working on offline functionality by implementing an SQLite database to cache monument data, images, and user session information. This allows users to access content even when they are not connected to the internet. Additionally, we set up Firebase Cloud Messaging (FCM) to deliver push notifications about cultural events and nearby monuments.
+## Description
+Implemented offline access and user notifications for enhanced engagement.
 
-## 📌 Key Activities
-- Set up SQLite database for offline data caching.
-- Integrated push notifications using Firebase Cloud Messaging.
-- Designed schema to store monument data locally and sync with Firebase.
+## Objectives
+- Cache monument data for offline viewing
+- Set up notifications for updates and nearby monuments
 
-## ✅ Outcomes
-- Offline mode partially implemented with local data caching.
-- Push notification feature is ready for future deployment.
+## Activities
+- Enabled local data caching
+- Integrated notification logic for future deployment
+
+## Outcome
+Better user accessibility and timely engagement.

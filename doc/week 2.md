@@ -1,17 +1,19 @@
-# Week 2: Android Project Initialization & UI Design
+# Week 2: Backend & UI Design Initialization
 
-## 🎯 Objective
-Set up the Android project in Android Studio and design UI elements for key screens.
+**Project Title:** CultureAI – Heritage & Monument Information Web Application
 
-## 📘 Summary
-In Week 2, we initiated the Android project setup in Android Studio. We focused on designing the user interface for core app functionalities, including the splash screen, home screen, and monument detail pages. A card-style layout was implemented to display monument information with images and names. This UI structure was connected to static data for the initial prototype.
+## Description
+Backend setup with Java/JSP; designed main UI screens for monument display.
 
-## 📌 Key Activities
-- Initialized Android app in Android Studio.
-- Designed the splash screen, home screen, and monument detail page.
-- Implemented a card-style layout for monument data display.
-- Linked static data for prototype visualization.
+## Objectives
+- Scaffold core backend files (Servlets, JSP)
+- Prototype interactive dashboard for admin
+- Wireframe responsive layouts (HTML/CSS/JS)
 
-## ✅ Outcomes
-- The Android project is set up and the basic UI is implemented.
-- Static data is successfully displayed on the UI for testing.
+## Activities
+- Created servlet structure for admin functions
+- Mocked Google Maps component using API
+- Linked static data to prototype screens
+
+## Outcome
+Functional prototype for admin management and monument exploration.

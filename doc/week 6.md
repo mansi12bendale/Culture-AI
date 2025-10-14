@@ -1,16 +1,17 @@
-# Week 6: Multimedia Support & Content Expansion
+# Week 6: Multimedia Content & Image Management
 
-## 🎯 Objective
-Enhance the app experience with multimedia content such as images and videos.
+**Project Title:** CultureAI – Heritage & Monument Information Web Application
 
-## 📘 Summary
-This week was focused on enriching the app with multimedia content. We utilized Firebase Storage to host additional images and cultural videos related to the monuments. These multimedia elements were embedded into the monument detail pages, providing users with a richer, more interactive learning experience.
+## Description
+Integrated image uploads and multimedia display for monument pages.
 
-## 📌 Key Activities
-- Integrated Firebase Storage to host images and videos.
-- Embedded cultural videos into the monument detail page.
-- Linked sample videos to monuments based on related keywords.
+## Objectives
+- Allow image upload for monuments
+- Multimedia-rich detail pages
 
-## ✅ Outcomes
-- Multimedia content (images and videos) was successfully integrated into the app.
-- User engagement was enhanced with cultural content.
+## Activities
+- Used Java Servlets and MySQL BLOB fields for images
+- Embedded image gallery for monument details
+
+## Outcome
+Visually engaging presentation of cultural monument data.
