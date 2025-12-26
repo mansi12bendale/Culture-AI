@@ -1,17 +1,18 @@
 # Week 3: Dynamic Data Integration
 
-## 🎯 Objective
-Integrate dynamic data from the dataset into the app for live data rendering.
+## Objective
+Integrate dynamic monument data into the application for real-time content rendering.
 
-## 📘 Summary
-This week, we focused on dynamic data integration from the dataset into the app. The monument data was parsed to extract relevant details such as names, descriptions, and images. Using `RecyclerView`, we dynamically displayed the monument data on the home screen. `Glide` was integrated for efficient image loading, enhancing the app’s performance and user experience.
+## Summary
+In Week 3, the focus was on integrating dynamic data into the **CultureAI** application using a Web-to-Android development approach. Monument datasets were parsed to extract essential information such as names, descriptions, and image paths. This data was dynamically rendered on the home screen using web-based components. Efficient image loading techniques were applied to ensure smooth performance and improved user experience.
 
-## 📌 Key Activities
-- Parsed monument dataset to extract names, descriptions, and images.
-- Integrated `RecyclerView` for dynamic data rendering.
-- Used `Glide` for efficient image loading from local storage.
-- Created a model class to hold monument details.
+## Key Activities
+- Parsed monument dataset to extract names, descriptions, and image references  
+- Implemented dynamic data rendering for monument listings  
+- Optimized image loading for better performance  
+- Created structured data models to manage monument information  
 
-## ✅ Outcomes
-- Monument data is dynamically integrated into the app.
-- Image loading works seamlessly with `Glide`.
+## Outcomes
+- Monument data successfully rendered dynamically in the application  
+- Images load efficiently without performance issues  
+- Application now supports scalable, data-driven content

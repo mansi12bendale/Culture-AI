@@ -1,17 +1,18 @@
-# Week 2: Android Project Initialization & UI Design
+# Week 2: Web-to-Android Setup & UI Design
 
-## 🎯 Objective
-Set up the Android project in Android Studio and design UI elements for key screens.
+## Objective
+Initialize the Web-to-Android project environment and design the user interface for core application screens.
 
-## 📘 Summary
-In Week 2, we initiated the Android project setup in Android Studio. We focused on designing the user interface for core app functionalities, including the splash screen, home screen, and monument detail pages. A card-style layout was implemented to display monument information with images and names. This UI structure was connected to static data for the initial prototype.
+## Summary
+In Week 2, the **CultureAI** application was developed using a **Web-to-Android approach**, where web-based UI components were adapted for Android deployment. The focus was on designing core screens such as the splash screen, home screen, and monument detail screen. A card-style layout was created to present monument information, including images and titles. Static data was integrated to validate the UI layout and navigation flow during the initial prototype phase.
 
-## 📌 Key Activities
-- Initialized Android app in Android Studio.
-- Designed the splash screen, home screen, and monument detail page.
-- Implemented a card-style layout for monument data display.
-- Linked static data for prototype visualization.
+## Key Activities
+- Set up the Web-to-Android development environment  
+- Designed splash screen, home screen, and monument detail screens  
+- Implemented card-based layout for monument display  
+- Integrated static data for prototype UI testing  
 
-## ✅ Outcomes
-- The Android project is set up and the basic UI is implemented.
-- Static data is successfully displayed on the UI for testing.
+## Outcomes
+- Web-to-Android project environment successfully initialized  
+- Core UI screens designed and rendered correctly  
+- Static data displayed properly for initial validation

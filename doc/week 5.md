@@ -1,16 +1,18 @@
 # Week 5: Firebase Integration & User Feedback
 
-## 🎯 Objective
-Implement Firebase for real-time data management and user-generated reviews.
+## Objective
+Integrate Firebase to enable real-time data storage and user-generated feedback within the application.
 
-## 📘 Summary
-Firebase was integrated for real-time data management and user feedback collection. We set up Firestore to store user reviews and ratings for monuments, creating a system where users can share their experiences and rate monuments. The reviews are displayed on the monument detail pages, providing valuable user-generated content.
+## Summary
+In Week 5, **Firebase** was integrated into the **CultureAI** application to support real-time data management and user interaction. Firestore was configured to store user reviews and ratings for cultural monuments. A feedback interface was implemented, allowing users to submit their experiences and ratings. The submitted reviews are dynamically fetched and displayed on individual monument detail pages, enhancing engagement and content authenticity.
 
-## 📌 Key Activities
-- Integrated Firebase and configured Firestore for database management.
-- Created a UI for submitting reviews and ratings.
-- Implemented logic to fetch and display reviews under each monument’s details.
+## Key Activities
+- Integrated Firebase and configured Firestore database  
+- Designed UI for submitting monument reviews and ratings  
+- Implemented logic to store, fetch, and display user feedback  
 
-## ✅ Outcomes
-- Firebase Firestore is successfully integrated.
-- Users can now submit and view monument reviews and ratings.
+## Outcomes
+- Firebase Firestore successfully integrated  
+- Real-time user reviews and ratings functional  
+- Enhanced user engagement through interactive feedback system
+
