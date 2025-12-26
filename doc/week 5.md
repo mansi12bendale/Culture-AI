@@ -1,5 +1,6 @@
-# Week 5: Firebase Integration & User Feedback
+# Week 5: Admin Features & User Interaction
 
+<<<<<<< HEAD
 ## Objective
 Integrate Firebase to enable real-time data storage and user-generated feedback within the application.
 
@@ -16,3 +17,20 @@ In Week 5, **Firebase** was integrated into the **CultureAI** application to sup
 - Real-time user reviews and ratings functional  
 - Enhanced user engagement through interactive feedback system
 
+=======
+**Project Title:** CultureAI 
+
+## Description
+Developed admin dashboard with secure authentication; improved user experience.
+
+## Objectives
+- Implement authentication and session management
+- Enable real-time CRUD for monument data
+
+## Activities
+- Built login system for admins
+- Streamlined monument data operations
+
+## Outcome
+Reliable admin management and engaging user experience.
+>>>>>>> 0e7ddbcab62f0cdafa5d1567913c12e171f35dc5

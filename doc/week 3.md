@@ -1,5 +1,6 @@
 # Week 3: Dynamic Data Integration
 
+<<<<<<< HEAD
 ## Objective
 Integrate dynamic monument data into the application for real-time content rendering.
 
@@ -16,3 +17,20 @@ In Week 3, the focus was on integrating dynamic data into the **CultureAI** appl
 - Monument data successfully rendered dynamically in the application  
 - Images load efficiently without performance issues  
 - Application now supports scalable, data-driven content
+=======
+**Project Title:** CultureAI 
+
+## Description
+Integrated dynamic monument data from MySQL to frontend maps and lists.
+
+## Objectives
+- Connect backend (Java Servlets) with MySQL
+- Render markers and details on the interactive map
+
+## Activities
+- Established DB connection and CRUD logic
+- Synced map markers and monument details with database
+
+## Outcome
+Live data rendering and accurate monument visualization.
+>>>>>>> 0e7ddbcab62f0cdafa5d1567913c12e171f35dc5

@@ -1,5 +1,6 @@
-# Week 6: Multimedia Support & Content Expansion
+# Week 6: Multimedia Content & Image Management
 
+<<<<<<< HEAD
 ## Objective
 Enhance the application experience by integrating multimedia content such as images and videos.
 
@@ -15,3 +16,20 @@ During Week 6, the **CultureAI** application was enhanced with rich multimedia c
 - Multimedia content successfully integrated into the application  
 - Improved user engagement through enriched cultural storytelling
 
+=======
+**Project Title:** CultureAI 
+
+## Description
+Integrated image uploads and multimedia display for monument pages.
+
+## Objectives
+- Allow image upload for monuments
+- Multimedia-rich detail pages
+
+## Activities
+- Used Java Servlets and MySQL BLOB fields for images
+- Embedded image gallery for monument details
+
+## Outcome
+Visually engaging presentation of cultural monument data.
+>>>>>>> 0e7ddbcab62f0cdafa5d1567913c12e171f35dc5

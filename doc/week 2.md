@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 2: Web-to-Android Setup & UI Design
 
 ## Objective
@@ -16,3 +17,24 @@ In Week 2, the **CultureAI** application was developed using a **Web-to-Android 
 - Web-to-Android project environment successfully initialized  
 - Core UI screens designed and rendered correctly  
 - Static data displayed properly for initial validation
+=======
+# Week 2: Backend & UI Design Initialization
+
+**Project Title:** CultureAI
+
+## Description
+Backend setup with Java/JSP; designed main UI screens for monument display.
+
+## Objectives
+- Scaffold core backend files (Servlets, JSP)
+- Prototype interactive dashboard for admin
+- Wireframe responsive layouts (HTML/CSS/JS)
+
+## Activities
+- Created servlet structure for admin functions
+- Mocked Google Maps component using API
+- Linked static data to prototype screens
+
+## Outcome
+Functional prototype for admin management and monument exploration.
+>>>>>>> 0e7ddbcab62f0cdafa5d1567913c12e171f35dc5
